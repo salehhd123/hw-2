@@ -6,15 +6,15 @@ public class Main {
         Scanner inp = new Scanner(System.in);
 
         //.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
-//        System.out.println("enter your first number :");
-//        int num1 = inp.nextInt();
-//        System.out.println("enter your second number :");
-//        int num2 = inp.nextInt();
-//
-//        System.out.println("the sum of the two numbers is :"+(num1+num2));
-//        System.out.println("the multiply of the two numbers is :"+(num1*num2));
-//        System.out.println("the divide of the two numbers is :"+(num1/num2));
-//        System.out.println("the reminder of the two numbers is :"+(num1%num2));
+       System.out.println("enter your first number :");
+       int num1 = inp.nextInt();
+       System.out.println("enter your second number :");
+       int num2 = inp.nextInt();
+
+       System.out.println("the sum of the two numbers is :"+(num1+num2));
+       System.out.println("the multiply of the two numbers is :"+(num1*num2));
+       System.out.println("the divide of the two numbers is :"+(num1/num2));
+       System.out.println("the reminder of the two numbers is :"+(num1%num2));
 
 
         //Write a Java program to convert a given string into lowercase.
