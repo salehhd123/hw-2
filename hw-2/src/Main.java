@@ -52,7 +52,7 @@ public class Main {
         else System.out.println("welcome normal user :)");
 
 //Write a Java program to calculate the sum of two integers and return true if the sum is equal to a third integer
-//        System.out.println("enter your first number :");
+       System.out.println("enter your first number :");
        int num1 = inp.nextInt();
        System.out.println("enter your second number :");
      int num2 = inp.nextInt();
